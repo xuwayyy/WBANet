@@ -159,7 +159,7 @@ class BiAttn(nn.Module):
 class ConcactFeature(nn.Module):
     def __init__(self, args: argparse.Namespace):
         super(ConcactFeature, self).__init__()
-        patch_size = args.patch_size
+        patch_size = args.patchsize
         self.catConv = nn.Conv2d(3, 3, kernel_size=1)
         self.norm1 = nn.LayerNorm([3, patch_size, patch_size])
         self.conv = nn.Conv2d(3, 3, 1)
@@ -177,7 +177,7 @@ class WBANet(nn.Module):
         self.wsm = wsm
         self.bam = BiAttn(in_channels=3)
         self.cf = ConcactFeature(args)
-        patch_size = args.patch_size
+        patch_size = args.patchsize
         self.linear1 = nn.Linear(patch_size * patch_size * 3, 20)
         self.linear2 = nn.Linear(20, 2)
         self.drop = nn.Dropout(0.2)
