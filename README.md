@@ -17,5 +17,5 @@ git clone https://github.com/xuwayyy/WBANet.git
 cd WBANet
 python main.py
 ```
-### You could also run it in Google-Colan
-### Colab Link (https://colab.research.google.com/)[https://colab.research.google.com/]
+### You could also run it in Google-Colab
+Colab Link: [https://colab.research.google.com/(https://colab.research.google.com/)
