@@ -18,4 +18,4 @@ cd WBANet
 python main.py
 ```
 ### You could also run it in Google-Colab
-Colab Link: [https://colab.research.google.com/(https://colab.research.google.com/)
+Colab Link: [https://colab.research.google.com/](https://colab.research.google.com/)
