@@ -11,8 +11,11 @@ Email: [xiejiangwei@stu.ouc.edu.cn](xiejiangwei@stu.ouc.edu.cn) or [xiejiangway@
 
 
 ## Take a quick start
+### Here is an example using git to clone the project
 ```
 git clone https://github.com/xuwayyy/WBANet.git
 cd WBANet
 python main.py
 ```
+### You could also run it in Google-Colan
+### Colab Link (https://colab.research.google.com/)[https://colab.research.google.com/]
