@@ -38,12 +38,13 @@ If you use our code, please cite our paper as follow:
 @ARTICLE{10605827,
   author={Xie, Jiangwei and Gao, Feng and Zhou, Xiaowei and Dong, Junyu},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection}, 
+  title={Wavelet-Based Bi-Dimensional Aggregation Network for SAR Image Change Detection}, 
   year={2024},
-  volume={},
+  volume={21},
   number={},
-  pages={1-1},
-  keywords={Discrete wavelet transforms;Head;Synthetic aperture radar;Radar polarimetry;Feature extraction;Attention mechanisms;Task analysis;Change detection;Synthetic aperture radar;Wavelet transform;Bi-dimensional aggregation module},
+  pages={1-5},
+  keywords={Discrete wavelet transforms;Head;Synthetic aperture radar;Radar polarimetry;Feature extraction;Attention mechanisms;Task analysis;Bi-dimensional aggregation module (BAM);change detection;synthetic aperture radar (SAR);wavelet transform},
   doi={10.1109/LGRS.2024.3431532}}
+
 
 ```
