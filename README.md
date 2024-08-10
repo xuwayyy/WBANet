@@ -1,7 +1,10 @@
 ##  🔥🔥"Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection" (IEEE GRSL 2024)
 This is a repo for our papar "Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection"
 Hope our code could help you. 
- 
+
+![image](https://github.com/user-attachments/assets/a3daf804-9b2e-43a8-960a-b99ffeb23f73)
+
+
 ## ✉✉ Contact
 If you have any questions about our work, do not hesitate to contact us.
 Email: [xiejiangwei@stu.ouc.edu.cn](xiejiangwei@stu.ouc.edu.cn) or [xiejiangway@163.com](xiejiangway@163.com)
