@@ -8,16 +8,26 @@ Email: [xiejiangwei@stu.ouc.edu.cn](xiejiangwei@stu.ouc.edu.cn) or [xiejiangway@
 
 
 ## 💻💻Take a quick start
-### Here is an example using git to clone the project
+### Using git to clone the project
 ```
 git clone https://github.com/xuwayyy/WBANet.git
 cd WBANet
+```
+
+### Run in default parameters in terminal
+```
 python main.py
 ```
+
+### Run in custom parameters setting in terminal
+```
+python main.py --dataset sulzberger --batchsize 128 --epoches 20 --lr 1e-4 --gamma 0.8 --patchsize 16
+```
+
 ### You could also run it in Google-Colab
 Colab Link: [https://colab.research.google.com/](https://colab.research.google.com/)
 ### Special Caution
-If you are a undergraduate student in OUC researching SAR Image Change Detection, I strongly recommend you to follow the style of the **Python** version because it provides a at least systematic way for a whole training process, the colab one could get the correct result as well but the coding style is bad in some way. 
+If you are a undergraduate student in OUC researching SAR Image Change Detection, I strongly recommend you to follow the style of the ```Python``` version because it provides a at least systematic way for a whole training process, the colab one could get the correct result as well but the coding style is bad in some way. 
 
 ## 📜Citation
 If you use our code, please cite our paper as follow:
