@@ -29,8 +29,6 @@ python main.py --dataset sulzberger --batchsize 128 --epoches 20 --lr 1e-4 --gam
 
 ### You could also run it in Google-Colab
 Colab Link: [https://colab.research.google.com/](https://colab.research.google.com/)
-### Special Caution
-If you are a undergraduate student in OUC researching SAR Image Change Detection, I strongly recommend you to follow the style of the ```Python``` version because it provides a at least systematic way for a whole training process, the colab one could get the correct result as well but the coding style is bad in some way. 
 
 ## 📜Citation
 If you use our code, please cite our paper as follow:
